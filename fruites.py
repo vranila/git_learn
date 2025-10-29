@@ -1,2 +1,7 @@
-fruites = ["apple", "banana"]
-print(fruites)
+
+def fruites():
+    fruites = ["apple", "banana"]
+    print(fruites)
+
+fruites()
+
